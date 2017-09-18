@@ -1,4 +1,4 @@
 # IoTHoL
 Hancom MDS Inc.
 
-Azure IoT, Windows 10 IoT Core Hol Material
+Azure IoT, Windows 10 IoT Core Hol Materials
